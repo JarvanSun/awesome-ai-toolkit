@@ -134,10 +134,13 @@ Data updated 2026-10-20.
 | [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | 6.3k | Paul Hudson's SwiftUI Pro agent skill |
 | [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | 3.7k | SwiftUI best-practices skill (incl. Liquid Glass) |
 | [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) | 2.9k | Curated directory of Swift/Apple agent skills |
+| [cameroncooke/AXe](https://github.com/cameroncooke/AXe) | 2.3k | Simulator automation CLI via accessibility APIs for agents |
+| [Eronred/aso-skills](https://github.com/Eronred/aso-skills) | 2.2k | ASO and app-marketing agent skills |
 | [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) | 1.7k | Swift Concurrency and Swift 6 migration skill |
 | [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | 1.3k | iOS Simulator build, run and interaction skill |
 | [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) | 1.2k | Claude Code skill suite for Apple-platform development |
 | [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) | 1.2k | Skills for iOS 26+, Swift 6.3 and modern frameworks |
+| [rudrankriyam/Foundation-Models-Framework-Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab) | 1.2k | Hands-on lab for Apple's Foundation Models framework |
 | [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | 1.1k | App Store release automation skills via asc CLI |
 
 ### MCP & Tools
@@ -156,6 +159,77 @@ Data updated 2026-10-20.
 | [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) | 1.9k | xcodebuild for humans and agents |
 | [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) | 1.8k | macOS MCP app for Messages, Contacts, Reminders |
 
+### Dev Tooling
+| Project | ⭐ | Description |
+|---|---|---|
+| [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 23.1k | Native open-source macOS code editor |
+| [realm/SwiftLint](https://github.com/realm/SwiftLint) | 19.8k | Swift style and convention linter |
+| [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) | 14.6k | In-app debugging and exploration tool for iOS |
+| [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | 8.9k | Swift formatter CLI and Xcode extension |
+| [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) | 8.9k | Generate Xcode projects from a spec |
+| [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) | 8.6k | App to install and switch Xcode versions |
+| [kean/Pulse](https://github.com/kean/Pulse) | 7.2k | Network logger for Apple platforms |
+| [peripheryapp/periphery](https://github.com/peripheryapp/periphery) | 6.2k | Find unused code in Swift projects |
+| [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) | 4.9k | CLI to install and switch Xcode versions |
+| [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) | 4.4k | Swift snapshot testing library |
+| [swiftlang/swift-format](https://github.com/swiftlang/swift-format) | 3.0k | Official Swift source formatter |
+| [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector) | 2.6k | Runtime inspection and unit testing of SwiftUI views |
+| [pointfreeco/swift-navigation](https://github.com/pointfreeco/swift-navigation) | 2.3k | Navigation tools for all Swift platforms |
+| [pointfreeco/swift-dependencies](https://github.com/pointfreeco/swift-dependencies) | 2.2k | Dependency management inspired by SwiftUI environment |
+| [Brightify/Cuckoo](https://github.com/Brightify/Cuckoo) | 1.7k | Boilerplate-free Swift mocking framework |
+| [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) | 1.6k | xcodebuild output formatter |
+| [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) | 1.6k | Capture iOS HTTP/WebSocket traffic without a proxy |
+| [swiftlang/swift-docc](https://github.com/swiftlang/swift-docc) | 1.4k | Swift documentation and tutorial compiler |
+| [swiftlang/vscode-swift](https://github.com/swiftlang/vscode-swift) | 1.1k | Swift language extension for VS Code |
+| [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | Crash and error monitoring SDK for Apple platforms |
+
+### Libraries
+| Project | ⭐ | Description |
+|---|---|---|
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 42.4k | Elegant HTTP networking in Swift |
+| [vapor/vapor](https://github.com/vapor/vapor) | 26.2k | Server-side Swift web framework |
+| [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 24.6k | Reactive Extensions for Swift |
+| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 24.4k | Pure-Swift image downloading and caching |
+| [realm/realm-swift](https://github.com/realm/realm-swift) | 16.6k | Mobile object database |
+| [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) | 11.5k | Audio synthesis, processing and analysis |
+| [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 10.2k | Type-safe Swift layer over SQLite |
+| [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) | 9.9k | Software update framework for macOS |
+| [kean/Nuke](https://github.com/kean/Nuke) | 8.7k | Image loading, caching and processing |
+| [groue/GRDB.swift](https://github.com/groue/GRDB.swift) | 8.7k | SQLite toolkit for app development |
+| [apple/swift-nio](https://github.com/apple/swift-nio) | 8.5k | Event-driven high-performance networking |
+| [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 7.0k | Firebase SDK for Apple platforms |
+| [apple/swift-algorithms](https://github.com/apple/swift-algorithms) | 6.3k | Common sequence and collection algorithms |
+| [apple/swift-protobuf](https://github.com/apple/swift-protobuf) | 5.0k | Protobuf plugin and runtime for Swift |
+| [apple/swift-collections](https://github.com/apple/swift-collections) | 4.5k | Commonly used data structures |
+| [apple/swift-log](https://github.com/apple/swift-log) | 4.1k | Logging API for Swift |
+| [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) | 3.8k | Type-safe command-line argument parsing |
+| [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | 3.7k | Async algorithms for Swift |
+| [apple/swift-markdown](https://github.com/apple/swift-markdown) | 3.4k | Markdown parsing and editing |
+| [RevenueCat/purchases-ios](https://github.com/RevenueCat/purchases-ios) | 3.1k | In-app purchase and subscription SDK over StoreKit |
+| [hmlongco/Factory](https://github.com/hmlongco/Factory) | 2.9k | Container-based dependency injection |
+| [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) | 2.7k | User-customizable global hotkeys for macOS |
+| [stripe/stripe-ios](https://github.com/stripe/stripe-ios) | 2.6k | Stripe payments SDK for iOS |
+| [grpc/grpc-swift](https://github.com/grpc/grpc-swift) | 2.2k | Swift implementation of gRPC |
+| [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) | 2.0k | Generate Swift code from OpenAPI |
+| [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data) | 1.9k | Lightweight SQL-based SwiftData replacement |
+| [hummingbird-project/hummingbird](https://github.com/hummingbird-project/hummingbird) | 1.9k | Lightweight flexible Swift HTTP server |
+| [supabase/supabase-swift](https://github.com/supabase/supabase-swift) | 1.3k | Swift SDK for Supabase |
+
+### UI Components
+| Project | ⭐ | Description |
+|---|---|---|
+| [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13.1k | Data-driven UICollectionView list framework |
+| [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) | 6.3k | Chat messages UI for iOS |
+| [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) | 5.8k | Floating panel / bottom sheet |
+| [airbnb/HorizonCalendar](https://github.com/airbnb/HorizonCalendar) | 3.2k | Declarative performant calendar |
+| [LeoNatan/LNPopupController](https://github.com/LeoNatan/LNPopupController) | 3.1k | Apple Music-style popup bar |
+| [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI) | 2.5k | Open-source SwiftUI implementation |
+| [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) | 1.9k | Custom iOS keyboards with Swift/SwiftUI |
+| [airbnb/epoxy-ios](https://github.com/airbnb/epoxy-ios) | 1.3k | Declarative UI APIs for UIKit |
+| [nathantannar4/Transmission](https://github.com/nathantannar4/Transmission) | 1.2k | UIKit presentations and transitions for SwiftUI |
+| [ekazaev/ChatLayout](https://github.com/ekazaev/ChatLayout) | 1.1k | Custom collection layout for chat UIs |
+| [davdroman/swiftui-navigation-transitions](https://github.com/davdroman/swiftui-navigation-transitions) | 1.1k | Custom SwiftUI navigation transitions |
+
 ### Animation & Motion
 | Project | ⭐ | Description |
 |---|---|---|
@@ -166,21 +240,61 @@ Data updated 2026-10-20.
 | [mikelikesdesign/SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments) | 2.1k | SwiftUI interaction and motion experiments |
 | [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) | 1.7k | Preset SwiftUI loading indicators |
 | [exyte/ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView) | 1.5k | Scroll view with shrinking sticky header |
+| [daangn/seed-design](https://github.com/daangn/seed-design) | 1.2k | Daangn (Karrot) SEED design system (React/iOS/Android) |
 
-### Architecture · Components · On-device AI
+### Architecture · Extensions
 | Project | ⭐ | Description |
 |---|---|---|
 | [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 15.0k | Composable, testable Swift app architecture |
 | [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) | 8.2k | Exhaustive expansion of SwiftUI |
 | [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) | 6.6k | Introspect UIKit/AppKit views from SwiftUI |
+| [exyte/Grid](https://github.com/exyte/Grid) | 2.1k | Grid layout for SwiftUI |
+| [exyte/Chat](https://github.com/exyte/Chat) | 1.9k | SwiftUI chat UI framework (fits AI chat apps) |
+| [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) | 1.7k | Swift SDK for the App Store Connect API |
+
+### On-device AI · AI Apps
+| Project | ⭐ | Description |
+|---|---|---|
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 25.0k | Google on-device GenAI showcase app (incl. iOS) |
+| [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | 10.3k | Local AI toolkit with Swift SDK |
+| [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) | 8.7k | App running language models locally on phones |
+| [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) | 8.1k | Native Swift macOS harness for offline AI agents |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 6.7k | Google edge LLM inference with Swift API |
+| [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) | 6.5k | Apple Intelligence on Mac as CLI and OpenAI-compatible server |
+| [cactus-compute/cactus](https://github.com/cactus-compute/cactus) | 6.1k | Mobile LLM inference engine with Swift bindings |
 | [apple/coremltools](https://github.com/apple/coremltools) | 5.4k | Core ML model conversion and validation |
 | [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | 3.1k | On-device CoreML audio SDK (STT, TTS, VAD, diarization) |
 | [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) | 3.0k | Community Swift package for the OpenAI API |
 | [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) | 2.1k | Swift API for MLX |
-| [exyte/Grid](https://github.com/exyte/Grid) | 2.1k | Grid layout for SwiftUI |
-| [exyte/Chat](https://github.com/exyte/Chat) | 1.9k | SwiftUI chat UI framework (fits AI chat apps) |
-| [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) | 1.7k | Swift SDK for the App Store Connect API |
+| [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) | 1.9k | Core ML model zoo with conversion scripts |
+| [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) | 1.6k | Open-source cross-device personal agent (iPhone/Mac) |
 | [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) | 1.4k | Transformers-like API in Swift |
+| [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) | 1.2k | Native AI chat client for Apple platforms |
+
+### Learning · Swift Core · Open-source Apps
+| Project | ⭐ | Description |
+|---|---|---|
+| [swiftlang/swift](https://github.com/swiftlang/swift) | 70.5k | Swift compiler and toolchain |
+| [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | 53.7k | Curated iOS ecosystem list |
+| [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 52.7k | Directory of open-source Apple apps |
+| [exelban/stats](https://github.com/exelban/stats) | 42.7k | Menu bar system monitor (open-source macOS app) |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | 36.0k | Virtual machines for iOS and macOS |
+| [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | 26.3k | Collaborative list of Swift libraries and resources |
+| [p0deje/Maccy](https://github.com/p0deje/Maccy) | 22.0k | Lightweight macOS clipboard manager |
+| [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) | 15.9k | Swift language evolution proposals |
+| [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | Firefox for iOS source |
+| [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) | 12.3k | Signal private messenger for iOS |
+| [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | 10.5k | RSS reader for macOS and iOS |
+| [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10.2k | The Swift Package Manager |
+| [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) | 7.1k | SwiftUI Mastodon client |
+| [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | 3.9k | Language server for Swift |
+| [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) | 3.7k | Parse and generate Swift source |
+| [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) | 3.5k | Official Wikipedia iOS app |
+| [airbnb/swift](https://github.com/airbnb/swift) | 2.8k | Airbnb Swift style guide |
+| [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) | 2.7k | Cross-platform Foundation implementation |
+| [home-assistant/iOS](https://github.com/home-assistant/iOS) | 2.4k | Home Assistant companion for Apple platforms |
+| [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | Modern Swift testing package |
+| [swiftlang/swift-book](https://github.com/swiftlang/swift-book) | 2.0k | Official Swift Programming Language book source |
 
 ## 🤖 Coding Agents · Agent Frameworks · App Platforms
 
