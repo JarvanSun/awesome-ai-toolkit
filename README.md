@@ -10,6 +10,7 @@ Data updated 2026-10-20.
 
 - [🧩 Agent Skills · MCP · Prompt](#-agent-skills--mcp--prompt)
 - [🎨 Design · Icons · Screenshots](#-design--icons--screenshots)
+- [🍎 iOS Development](#-ios-development)
 - [🤖 Coding Agents · Agent Frameworks · App Platforms](#-coding-agents--agent-frameworks--app-platforms)
 - [🎬 Video · Image · Audio](#-video--image--audio)
 - [🎮 Game Development](#-game-development)
@@ -123,6 +124,63 @@ Data updated 2026-10-20.
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 8.5k | UI design skills for Google Stitch |
 | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 7.1k | MCP letting Cursor/Claude Code read & edit Figma |
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 6.1k | MCP to find & generate React/Tailwind components |
+
+## 🍎 iOS Development
+
+### Agent Skills
+| Project | ⭐ | Description |
+|---|---|---|
+| [steipete/agent-scripts](https://github.com/steipete/agent-scripts) | 7.4k | steipete's agent scripts and skills (SwiftUI/Liquid Glass, macOS release) |
+| [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | 6.3k | Paul Hudson's SwiftUI Pro agent skill |
+| [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | 3.7k | SwiftUI best-practices skill (incl. Liquid Glass) |
+| [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) | 2.9k | Curated directory of Swift/Apple agent skills |
+| [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) | 1.7k | Swift Concurrency and Swift 6 migration skill |
+| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | 1.3k | iOS Simulator build, run and interaction skill |
+| [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) | 1.2k | Claude Code skill suite for Apple-platform development |
+| [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) | 1.2k | Skills for iOS 26+, Swift 6.3 and modern frameworks |
+| [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | 1.1k | App Store release automation skills via asc CLI |
+
+### MCP & Tools
+| Project | ⭐ | Description |
+|---|---|---|
+| [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) | 16.1k | Painless mobile and web E2E automation |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 13.0k | Cross-platform Xcode replacement using SwiftPM |
+| [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 9.8k | MCP for iOS/Android device and simulator automation |
+| [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 8.0k | Fast scriptable App Store Connect CLI |
+| [openai/tart](https://github.com/openai/tart) | 7.6k | macOS/Linux VMs on Apple Silicon for CI |
+| [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 6.5k | XcodeBuildMCP successor: iOS/macOS build MCP and CLI |
+| [tuist/tuist](https://github.com/tuist/tuist) | 5.8k | Xcode project generation and build platform |
+| [facebook/idb](https://github.com/facebook/idb) | 5.4k | CLI for automating iOS simulators and devices |
+| [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) | 4.7k | Hot reloading for Xcode (with MCP) |
+| [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) | 2.2k | MCP server for the iOS Simulator |
+| [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) | 1.9k | xcodebuild for humans and agents |
+| [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) | 1.8k | macOS MCP app for Messages, Contacts, Reminders |
+
+### Animation & Motion
+| Project | ⭐ | Description |
+|---|---|---|
+| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 26.9k | Native rendering of After Effects animations |
+| [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) | 5.7k | Pure SwiftUI animation and spring effect collection |
+| [exyte/PopupView](https://github.com/exyte/PopupView) | 4.1k | SwiftUI toasts and popups |
+| [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) | 3.6k | Reusable SwiftUI animated components and Metal shaders |
+| [mikelikesdesign/SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments) | 2.1k | SwiftUI interaction and motion experiments |
+| [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) | 1.7k | Preset SwiftUI loading indicators |
+| [exyte/ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView) | 1.5k | Scroll view with shrinking sticky header |
+
+### Architecture · Components · On-device AI
+| Project | ⭐ | Description |
+|---|---|---|
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 15.0k | Composable, testable Swift app architecture |
+| [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) | 8.2k | Exhaustive expansion of SwiftUI |
+| [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) | 6.6k | Introspect UIKit/AppKit views from SwiftUI |
+| [apple/coremltools](https://github.com/apple/coremltools) | 5.4k | Core ML model conversion and validation |
+| [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | 3.1k | On-device CoreML audio SDK (STT, TTS, VAD, diarization) |
+| [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) | 3.0k | Community Swift package for the OpenAI API |
+| [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) | 2.1k | Swift API for MLX |
+| [exyte/Grid](https://github.com/exyte/Grid) | 2.1k | Grid layout for SwiftUI |
+| [exyte/Chat](https://github.com/exyte/Chat) | 1.9k | SwiftUI chat UI framework (fits AI chat apps) |
+| [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) | 1.7k | Swift SDK for the App Store Connect API |
+| [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) | 1.4k | Transformers-like API in Swift |
 
 ## 🤖 Coding Agents · Agent Frameworks · App Platforms
 

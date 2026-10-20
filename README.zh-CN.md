@@ -10,6 +10,7 @@
 
 - [🧩 Agent Skills · MCP · Prompt](#-agent-skills--mcp--prompt)
 - [🎨 设计 · 图标 · 截图](#-设计--图标--截图)
+- [🍎 iOS 开发](#-ios-开发)
 - [🤖 编程 Agent · Agent 框架 · 应用平台](#-编程-agent--agent-框架--应用平台)
 - [🎬 视频 · 图像 · 语音](#-视频--图像--语音)
 - [🎮 游戏制作](#-游戏制作)
@@ -123,6 +124,63 @@
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 8.5k | Google Stitch 配套的 UI 设计 Skills |
 | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 7.1k | 让 Cursor / Claude Code 读写 Figma 的 MCP |
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 6.1k | 搜索与生成 React / Tailwind 组件的 MCP |
+
+## 🍎 iOS 开发
+
+### Agent Skills
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [steipete/agent-scripts](https://github.com/steipete/agent-scripts) | 7.4k | steipete 的 Agent 脚本与 Skills（含 SwiftUI / Liquid Glass、macOS 发布） |
+| [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | 6.3k | Paul Hudson 的 SwiftUI Pro Skill |
+| [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | 3.7k | SwiftUI 最佳实践 Skill（含 Liquid Glass） |
+| [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) | 2.9k | Swift / Apple 平台 Skills 精选目录 |
+| [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) | 1.7k | Swift 并发与 Swift 6 迁移 Skill |
+| [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | 1.3k | iOS 模拟器构建、运行与交互 Skill |
+| [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) | 1.2k | 面向 Apple 全平台开发的 Claude Code Skills |
+| [dpearson2699/swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills) | 1.2k | iOS 26+ / Swift 6.3 现代框架 Skills |
+| [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) | 1.1k | 基于 asc CLI 的 App Store 发布自动化 Skills |
+
+### MCP & 工具
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) | 16.1k | 移动端与 Web 端到端自动化测试 |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 13.0k | 跨平台 Xcode 替代，用 SwiftPM 构建部署 iOS |
+| [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | 9.8k | iOS / Android 设备与模拟器自动化 MCP |
+| [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | 8.0k | 可脚本化的 App Store Connect 命令行 |
+| [openai/tart](https://github.com/openai/tart) | 7.6k | Apple Silicon 上用于 CI 的 macOS / Linux 虚拟机 |
+| [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 6.5k | XcodeBuildMCP 继任：iOS / macOS 构建 MCP 与 CLI |
+| [tuist/tuist](https://github.com/tuist/tuist) | 5.8k | Xcode 项目生成与构建平台 |
+| [facebook/idb](https://github.com/facebook/idb) | 5.4k | iOS 模拟器与真机自动化命令行 |
+| [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) | 4.7k | Xcode 热重载（支持 MCP） |
+| [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) | 2.2k | iOS 模拟器交互 MCP |
+| [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) | 1.9k | 面向人与 Agent 的 xcodebuild 工具 |
+| [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) | 1.8k | 连接信息、通讯录、提醒事项的 macOS MCP 应用 |
+
+### 动效 & 动画
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 26.9k | 原生渲染 After Effects 矢量动画 |
+| [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) | 5.7k | 纯 SwiftUI 动画与弹簧效果示例集 |
+| [exyte/PopupView](https://github.com/exyte/PopupView) | 4.1k | SwiftUI Toast 与弹窗库 |
+| [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) | 3.6k | 可复用 SwiftUI 动画组件与 Metal 着色器 |
+| [mikelikesdesign/SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments) | 2.1k | SwiftUI 交互与动效实验集 |
+| [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) | 1.7k | SwiftUI 预设加载动画 |
+| [exyte/ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView) | 1.5k | 随滚动收缩的吸顶头部 |
+
+### 架构 · 组件 · 端侧 AI
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 15.0k | 可组合、易测试的 Swift 应用架构 |
+| [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) | 8.2k | SwiftUI 标准库全面扩展 |
+| [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect) | 6.6k | 从 SwiftUI 访问底层 UIKit / AppKit 视图 |
+| [apple/coremltools](https://github.com/apple/coremltools) | 5.4k | Core ML 模型转换与验证 |
+| [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | 3.1k | 端侧 CoreML 语音识别 / 合成 / 说话人分离 SDK |
+| [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI) | 3.0k | 社区维护的 Swift OpenAI API 包 |
+| [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) | 2.1k | MLX 的 Swift API |
+| [exyte/Grid](https://github.com/exyte/Grid) | 2.1k | SwiftUI 网格布局 |
+| [exyte/Chat](https://github.com/exyte/Chat) | 1.9k | SwiftUI 聊天界面框架（适合 AI 聊天 App） |
+| [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) | 1.7k | App Store Connect API 的 Swift SDK |
+| [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) | 1.4k | Swift 版 transformers 风格 API |
 
 ## 🤖 编程 Agent · Agent 框架 · 应用平台
 
