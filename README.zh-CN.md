@@ -9,6 +9,7 @@
 ## 目录
 
 - [🧩 Agent Skills · MCP · Prompt](#-agent-skills--mcp--prompt)
+- [🎨 设计 · 图标 · 截图](#-设计--图标--截图)
 - [🤖 编程 Agent · Agent 框架 · 应用平台](#-编程-agent--agent-框架--应用平台)
 - [🎬 视频 · 图像 · 语音](#-视频--图像--语音)
 - [🧠 开源模型 · 推理 · 训练](#-开源模型--推理--训练)
@@ -66,6 +67,62 @@
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144.1k | 众多 AI 编程/助手产品的系统提示词与工具定义 |
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 69.9k | 主流聊天机器人与编程 agent 的系统提示词合集 |
 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 51.4k | 多家 AI 模型与 agent 的系统提示词，主打透明度 |
+## 🎨 设计 · 图标 · 截图
+
+### 图标制作
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 54.1k | Google 官方 Material Symbols 图标库 |
+| [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | 26.0k | 热门品牌 SVG 图标集 |
+| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25.2k | 社区维护的一致风格图标工具包 |
+| [svg/svgo](https://github.com/svg/svgo) | 22.8k | SVG 优化压缩工具 |
+| [tabler/tabler-icons](https://github.com/tabler/tabler-icons) | 22.4k | 6200+ 个 MIT 协议 SVG 图标 |
+| [react-icons/react-icons](https://github.com/react-icons/react-icons) | 12.7k | 主流图标包的 React 组件封装 |
+| [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | 10.9k | 微软 Fluent 系统图标 |
+| [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 8.9k | 开源 AI Logo 生成器 |
+| [twbs/icons](https://github.com/twbs/icons) | 8.2k | Bootstrap 官方 SVG 图标库 |
+| [antfu-collective/icones](https://github.com/antfu-collective/icones) | 7.5k | 基于 Iconify 的图标搜索浏览器 |
+| [iconify/iconify](https://github.com/iconify/iconify) | 6.4k | 统一语法使用约 30 万个图标 |
+| [pheralb/svgl](https://github.com/pheralb/svgl) | 6.4k | SVG 品牌 Logo 库 |
+| [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) | 4.6k | 1600+ 个多框架开源图标 |
+| [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) | 3.0k | 自动生成 PWA 图标、启动图与 favicon |
+| [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) | 1.9k | 命令行 AI 生成 App 图标 |
+
+### 截图 & 宣传图制作
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 44.3k | AI Agent 用的浏览器自动化 CLI，可截图 |
+| [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42.3k | iOS/Android 发布自动化，含 snapshot 与 frameit 设备框 |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | 40.2k | Windows 截图、录屏与上传工具 |
+| [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 31.3k | 跨平台截图与标注工具 |
+| [vercel/satori](https://github.com/vercel/satori) | 14.1k | HTML/CSS 转 SVG，常用于生成 OG 图 |
+| [browserless/browserless](https://github.com/browserless/browserless) | 13.8k | Docker 部署的无头浏览器截图服务 |
+| [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) | 7.5k | AI 端到端生成 App Store 宣传截图的 Skill |
+| [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | 5.4k | macOS 截图 CLI 与 MCP，供 Agent 截图分析 |
+| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 4.5k | 批量网页截图工具 |
+| [simonw/shot-scraper](https://github.com/simonw/shot-scraper) | 2.6k | 网站截图与演示录制命令行工具 |
+| [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) | 2.4k | macOS 截图美化与录屏（CleanShot 替代） |
+| [raycast/ray-so](https://github.com/raycast/ray-so) | 2.4k | 生成精美代码截图 |
+
+### UI 设计
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 126.0k | 可组合的无障碍组件库，带 registry 与 MCP |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 102.6k | 本地优先的开源 AI 设计 Agent 工作台 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 99.6k | 提升 Agent 审美的设计 Skill |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 83.4k | 提升 AI 设计质量的设计语言与 QA Skill |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 80.5k | 截图转 HTML / Tailwind / React / Vue 代码 |
+| [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | 开源设计平台（Figma 替代），自带 MCP |
+| [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | 28.7k | 把任意网站克隆重建为 React 应用 |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 27.0k | AI 驱动的可视化代码设计编辑器 |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22.0k | 本地开源 AI 应用构建器（v0 / Lovable 替代） |
+| [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 20.0k | 开源版 bolt.new，任意 LLM 生成全栈应用 |
+| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 10.5k | shadcn/ui 可视化主题编辑器 |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 9.9k | 面向设计工程师的 Agent Skills |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 8.5k | Google Stitch 配套的 UI 设计 Skills |
+| [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 7.1k | 让 Cursor / Claude Code 读写 Figma 的 MCP |
+| [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 6.1k | 搜索与生成 React / Tailwind 组件的 MCP |
+
 ## 🤖 编程 Agent · Agent 框架 · 应用平台
 
 ### 编程 Agent / CLI

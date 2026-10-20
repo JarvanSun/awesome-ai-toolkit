@@ -9,6 +9,7 @@ Datenstand: 2026-10-20.
 ## Inhalt
 
 - [🧩 Agent Skills · MCP · Prompt](#-agent-skills--mcp--prompt)
+- [🎨 Design · Icons · Screenshots](#-design--icons--screenshots)
 - [🤖 Coding-Agents · Agent-Frameworks · Anwendungsplattformen](#-coding-agents--agent-frameworks--anwendungsplattformen)
 - [🎬 Video · Bild · Sprache](#-video--bild--sprache)
 - [🧠 Offene Modelle · Inferenz · Training](#-offene-modelle--inferenz--training)
@@ -66,6 +67,62 @@ Datenstand: 2026-10-20.
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144.1k | System-Prompts und Tool-Definitionen zahlreicher KI-Coding- und Assistenzprodukte |
 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 69.9k | System-Prompts gängiger Chatbots und Coding-Agents |
 | [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | 51.4k | System-Prompts vieler KI-Modelle und Agents, mit Fokus auf Transparenz |
+## 🎨 Design · Icons · Screenshots
+
+### Icon-Erstellung
+| Projekt | ⭐ | Beschreibung |
+|---|---|---|
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 54.1k | Offizielle Material-Symbols-Iconbibliothek von Google |
+| [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) | 26.0k | SVG-Icons bekannter Marken |
+| [lucide-icons/lucide](https://github.com/lucide-icons/lucide) | 25.2k | Community-gepflegtes, einheitliches Icon-Toolkit |
+| [svg/svgo](https://github.com/svg/svgo) | 22.8k | SVG-Optimierer (Node/CLI) |
+| [tabler/tabler-icons](https://github.com/tabler/tabler-icons) | 22.4k | Über 6.200 MIT-lizenzierte SVG-Icons |
+| [react-icons/react-icons](https://github.com/react-icons/react-icons) | 12.7k | Beliebte Icon-Pakete als React-Komponenten |
+| [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | 10.9k | Microsoft Fluent System Icons |
+| [Nutlope/logocreator](https://github.com/Nutlope/logocreator) | 8.9k | Open-Source-KI-Logo-Generator |
+| [twbs/icons](https://github.com/twbs/icons) | 8.2k | Offizielle Bootstrap-SVG-Iconbibliothek |
+| [antfu-collective/icones](https://github.com/antfu-collective/icones) | 7.5k | Icon-Explorer auf Basis von Iconify |
+| [iconify/iconify](https://github.com/iconify/iconify) | 6.4k | Einheitliches Framework für ca. 300.000 Icons |
+| [pheralb/svgl](https://github.com/pheralb/svgl) | 6.4k | Bibliothek mit SVG-Markenlogos |
+| [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) | 4.6k | Über 1.600 Open-Source-Icons für viele Frameworks |
+| [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) | 3.0k | Erzeugt PWA-Icons, Splashscreens und Favicons |
+| [Code-with-Beto/snapai](https://github.com/Code-with-Beto/snapai) | 1.9k | CLI, das App-Icons per KI erzeugt |
+
+### Screenshots & Marketingbilder
+| Projekt | ⭐ | Beschreibung |
+|---|---|---|
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 44.3k | Browser-Automatisierungs-CLI für KI-Agents, inkl. Screenshots |
+| [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42.3k | iOS/Android-Release-Automatisierung mit snapshot & frameit |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | 40.2k | Screenshot-, Aufnahme- und Upload-Tool für Windows |
+| [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) | 31.3k | Plattformübergreifendes Screenshot- und Annotationstool |
+| [vercel/satori](https://github.com/vercel/satori) | 14.1k | HTML/CSS zu SVG, ideal für OG-Bilder |
+| [browserless/browserless](https://github.com/browserless/browserless) | 13.8k | Headless-Browser-Dienst (Docker) für Screenshots |
+| [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) | 7.5k | Skill für komplette App-Store-Marketing-Screenshots |
+| [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | 5.4k | macOS-Screenshot-CLI & MCP für Agents |
+| [sensepost/gowitness](https://github.com/sensepost/gowitness) | 4.5k | Tool für Website-Screenshots in großer Zahl |
+| [simonw/shot-scraper](https://github.com/simonw/shot-scraper) | 2.6k | CLI für Website-Screenshots und Demo-Aufnahmen |
+| [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) | 2.4k | macOS-Screenshot-Verschönerung & Aufnahme (CleanShot-Alternative) |
+| [raycast/ray-so](https://github.com/raycast/ray-so) | 2.4k | Schöne Code-Screenshots |
+
+### UI-Design
+| Projekt | ⭐ | Beschreibung |
+|---|---|---|
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 126.0k | Kombinierbare, barrierefreie Komponenten mit Registry & MCP |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 102.6k | Local-first Open-Source-Workspace für KI-Design-Agents |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 99.6k | Design-Skill für besseren Geschmack von Agents |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 83.4k | Designsprache & QA-Skill für besseres KI-Design |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 80.5k | Screenshot zu HTML/Tailwind/React/Vue-Code |
+| [penpot/penpot](https://github.com/penpot/penpot) | 61.4k | Open-Source-Designplattform (Figma-Alternative) mit MCP |
+| [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) | 28.7k | Beliebige Website als React-App nachbauen |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 27.0k | KI-gestützter visueller Code-Design-Editor |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 22.0k | Lokaler Open-Source-KI-App-Builder (v0/Lovable-Alternative) |
+| [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | 20.0k | Open-Source-bolt.new für beliebige LLMs |
+| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 10.5k | Visueller Theme-Editor für shadcn/ui |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 9.9k | Agent Skills für Design Engineers |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 8.5k | UI-Design-Skills für Google Stitch |
+| [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 7.1k | MCP, mit dem Cursor/Claude Code Figma lesen & bearbeiten |
+| [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 6.1k | MCP zum Finden & Erzeugen von React/Tailwind-Komponenten |
+
 ## 🤖 Coding-Agents · Agent-Frameworks · Anwendungsplattformen
 
 ### Coding-Agents / CLI
