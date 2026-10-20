@@ -12,6 +12,7 @@
 - [🎨 设计 · 图标 · 截图](#-设计--图标--截图)
 - [🤖 编程 Agent · Agent 框架 · 应用平台](#-编程-agent--agent-框架--应用平台)
 - [🎬 视频 · 图像 · 语音](#-视频--图像--语音)
+- [🎮 游戏制作](#-游戏制作)
 - [🧠 开源模型 · 推理 · 训练](#-开源模型--推理--训练)
 
 ## 🧩 Agent Skills · MCP · Prompt
@@ -282,6 +283,64 @@
 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 15.4k | 离线 ASR / TTS / VAD 工具包 |
 | [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | 9.5k | 多语种识别与情感检测 |
 | [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) | 6.4k | Apple Silicon 端侧语音识别 |
+## 🎮 游戏制作
+
+### MCP & Skills
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 31.7k | 用任意大模型控制 Blender 的 MCP |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 26.9k | 把 Claude Code 变成多 Agent 游戏工作室 |
+| [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 15.2k | 连接 AI 助手与 Unity 编辑器的 MCP |
+| [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.5k | Unity 的 AI Skills、MCP 工具与 CLI |
+| [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) | 3.1k | Godot 编辑器的 MCP 服务器与 AI 工具 |
+| [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) | 2.5k | 构建 three.js 网页游戏的 Agent Skills |
+| [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | 2.0k | 供 Cursor / Claude Code 使用的 Unity MCP |
+| [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 1.7k | 覆盖多引擎的 74 个游戏开发 Skills |
+
+### 游戏引擎
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [godotengine/godot](https://github.com/godotengine/godot) | 119k | 开源跨平台 2D/3D 游戏引擎 |
+| [mrdoob/three.js](https://github.com/mrdoob/three.js) | 116.6k | JavaScript 3D 库 |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 49.1k | 数据驱动的 Rust 游戏引擎 |
+| [pixijs/pixijs](https://github.com/pixijs/pixijs) | 48.4k | 高性能 HTML5 2D WebGL 渲染引擎 |
+| [phaserjs/phaser](https://github.com/phaserjs/phaser) | 40.5k | HTML5 2D 游戏框架 |
+| [raysan5/raylib](https://github.com/raysan5/raylib) | 35.3k | 简单易用的 C 语言游戏库 |
+| [4ian/GDevelop](https://github.com/4ian/GDevelop) | 27.7k | 面向新手的 2D/3D 无代码引擎 |
+| [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) | 26.2k | Web 3D 渲染与游戏框架 |
+| [playcanvas/engine](https://github.com/playcanvas/engine) | 17.1k | 基于 WebGL/WebGPU 的 Web 图形引擎 |
+| [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | C# 跨平台游戏框架 |
+| [cocos/cocos-engine](https://github.com/cocos/cocos-engine) | 9.9k | Cocos Creator 开源引擎 |
+| [o3de/o3de](https://github.com/o3de/o3de) | 9.8k | 开源 3A 级 3D 引擎 |
+| [love2d/love](https://github.com/love2d/love) | 8.8k | Lua 2D 游戏框架 |
+| [stride3d/stride](https://github.com/stride3d/stride) | 7.9k | 开源 C# 游戏引擎 |
+| [defold/defold](https://github.com/defold/defold) | 6.4k | 免费跨平台游戏引擎 |
+
+### 素材 · 关卡 · AI 角色
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 40.2k | 像素画与精灵动画编辑器 |
+| [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) | 19.8k | 用强化学习训练游戏 Agent |
+| [mapeditor/tiled](https://github.com/mapeditor/tiled) | 13.0k | 灵活的关卡地图编辑器 |
+| [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) | 10.7k | AI 角色生活社交的虚拟小镇 |
+| [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | 10.6k | 开源像素画工具 |
+| [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | 8.6k | Aseprite 开源分支 |
+| [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) | 7.6k | Minecraft 机器人 JS API |
+| [JannisX11/blockbench](https://github.com/JannisX11/blockbench) | 6.1k | 低多边形 3D 模型编辑器 |
+| [RodZill4/material-maker](https://github.com/RodZill4/material-maker) | 6.0k | 程序化纹理与 3D 绘制 |
+| [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) | 5.9k | 大模型驱动的 Minecraft Agent |
+| [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel) | 5.5k | 游戏强化学习环境与算法 |
+| [armory3d/armortools](https://github.com/armory3d/armortools) | 5.4k | 3D 绘制与图形创作工具 |
+| [deepnight/ldtk](https://github.com/deepnight/ldtk) | 4.3k | 现代轻量 2D 关卡编辑器 |
+| [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) | 2.8k | 多模态 3D 世界生成模型 |
+
+### AI 生成游戏
+| 项目 | ⭐ | 简介 |
+|---|---|---|
+| [htdt/godogen](https://github.com/htdt/godogen) | 7.2k | 用 Claude Code / Codex 自主开发游戏 |
+| [leigest519/OpenGame](https://github.com/leigest519/OpenGame) | 3.0k | 从提示词端到端生成网页游戏 |
+| [SkyworkAI/Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) | 2.7k | 可交互游戏世界的流式神经渲染 |
+
 ## 🧠 开源模型 · 推理 · 训练
 
 ### 开源大模型

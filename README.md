@@ -12,6 +12,7 @@ Data updated 2026-10-20.
 - [🎨 Design · Icons · Screenshots](#-design--icons--screenshots)
 - [🤖 Coding Agents · Agent Frameworks · App Platforms](#-coding-agents--agent-frameworks--app-platforms)
 - [🎬 Video · Image · Audio](#-video--image--audio)
+- [🎮 Game Development](#-game-development)
 - [🧠 Open Models · Inference · Training](#-open-models--inference--training)
 
 ## 🧩 Agent Skills · MCP · Prompt
@@ -282,6 +283,64 @@ Data updated 2026-10-20.
 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 15.4k | Offline ASR / TTS / VAD toolkit |
 | [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | 9.5k | Multilingual recognition and emotion detection |
 | [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) | 6.4k | On-device speech recognition for Apple Silicon |
+## 🎮 Game Development
+
+### MCP & Skills
+| Project | ⭐ | Description |
+|---|---|---|
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 31.7k | MCP plugin to control Blender with any LLM |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 26.9k | Turns Claude Code into a multi-agent game studio |
+| [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 15.2k | MCP bridge between AI assistants and the Unity Editor |
+| [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.5k | AI skills, MCP tools and CLI for Unity |
+| [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) | 3.1k | MCP server and AI tools for the Godot editor |
+| [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) | 2.5k | Agent skills for building three.js browser games |
+| [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | 2.0k | Unity Editor MCP for Cursor, Claude Code, Codex |
+| [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 1.7k | 74 game-dev agent skills across many engines |
+
+### Engines
+| Project | ⭐ | Description |
+|---|---|---|
+| [godotengine/godot](https://github.com/godotengine/godot) | 119k | Open-source cross-platform 2D/3D game engine |
+| [mrdoob/three.js](https://github.com/mrdoob/three.js) | 116.6k | JavaScript 3D library |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 49.1k | Data-driven game engine in Rust |
+| [pixijs/pixijs](https://github.com/pixijs/pixijs) | 48.4k | Fast HTML5 2D WebGL renderer |
+| [phaserjs/phaser](https://github.com/phaserjs/phaser) | 40.5k | HTML5 2D game framework |
+| [raysan5/raylib](https://github.com/raysan5/raylib) | 35.3k | Simple C library for making games |
+| [4ian/GDevelop](https://github.com/4ian/GDevelop) | 27.7k | Beginner-friendly 2D/3D no-code engine |
+| [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) | 26.2k | Web 3D rendering and game framework |
+| [playcanvas/engine](https://github.com/playcanvas/engine) | 17.1k | WebGL/WebGPU web graphics engine |
+| [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | Cross-platform C# game framework |
+| [cocos/cocos-engine](https://github.com/cocos/cocos-engine) | 9.9k | Open-source engine behind Cocos Creator |
+| [o3de/o3de](https://github.com/o3de/o3de) | 9.8k | Open AAA-grade 3D engine |
+| [love2d/love](https://github.com/love2d/love) | 8.8k | 2D game framework for Lua |
+| [stride3d/stride](https://github.com/stride3d/stride) | 7.9k | Open-source C# game engine |
+| [defold/defold](https://github.com/defold/defold) | 6.4k | Free cross-platform game engine |
+
+### Assets · Levels · AI Characters
+| Project | ⭐ | Description |
+|---|---|---|
+| [aseprite/aseprite](https://github.com/aseprite/aseprite) | 40.2k | Pixel art and sprite animation editor |
+| [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) | 19.8k | Train game agents with reinforcement learning |
+| [mapeditor/tiled](https://github.com/mapeditor/tiled) | 13.0k | Flexible level/map editor |
+| [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) | 10.7k | Virtual town of chatting AI characters |
+| [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | 10.6k | Open-source pixel art multitool |
+| [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | 8.6k | Open-source Aseprite fork |
+| [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) | 7.6k | JavaScript API for Minecraft bots |
+| [JannisX11/blockbench](https://github.com/JannisX11/blockbench) | 6.1k | Low-poly 3D model editor |
+| [RodZill4/material-maker](https://github.com/RodZill4/material-maker) | 6.0k | Procedural textures and 3D painting |
+| [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) | 5.9k | LLM-driven Minecraft agents |
+| [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel) | 5.5k | RL environments and algorithms for games |
+| [armory3d/armortools](https://github.com/armory3d/armortools) | 5.4k | 3D painting and graphics tools |
+| [deepnight/ldtk](https://github.com/deepnight/ldtk) | 4.3k | Modern lightweight 2D level editor |
+| [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0) | 2.8k | Multimodal 3D world generation model |
+
+### AI Game Generation
+| Project | ⭐ | Description |
+|---|---|---|
+| [htdt/godogen](https://github.com/htdt/godogen) | 7.2k | Autonomous game dev with Claude Code and Codex |
+| [leigest519/OpenGame](https://github.com/leigest519/OpenGame) | 3.0k | End-to-end web games from a prompt |
+| [SkyworkAI/Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) | 2.7k | Streaming neural rendering for playable worlds |
+
 ## 🧠 Open Models · Inference · Training
 
 ### Open LLMs
